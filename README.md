@@ -30,7 +30,7 @@ See `requirements.txt` for a full list of dependencies. Main libraries used:
 
 1. Clone this repository:
    ```
-   git clone [https://github.com/yourusername/stock-prediction-dashboard.git](https://github.com/lordamdal/Basic-Prophet-Stock-Prediction.git)
+   git clone https://github.com/lordamdal/Basic-Prophet-Stock-Prediction.git
    cd stock-prediction-dashboard
    ```
 
